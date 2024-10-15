@@ -64455,7 +64455,7 @@ while(true)switch(s){case 0:o=J
 n=t.j
 m=B.bl
 s=3
-return A.R($.pJ().LV("data/videoList.json"),$async$hN)
+return A.R($.pJ().LV("assets/data/videoList.json"),$async$hN)
 case 3:p=o.ku(n.a(m.eh(b)),new A.a4o(),t.PJ)
 q=A.X(p,!0,p.$ti.h("az.E"))
 s=1
@@ -64528,7 +64528,7 @@ while(true)switch(s){case 0:o=J
 n=t.j
 m=B.bl
 s=2
-return A.R($.pJ().LV("data/gifList.json"),$async$hN)
+return A.R($.pJ().LV("assets/data/gifList.json"),$async$hN)
 case 2:p=o.ku(n.a(m.eh(b)),new A.a20(),t.LM)
 q.aB(new A.a21(q,A.X(p,!0,p.$ti.h("az.E"))))
 return A.K(null,r)}})
@@ -64536,7 +64536,7 @@ return A.L($async$hN,r)},
 aj(){this.hN()
 this.aL()},
 N(a){var s=null
-return A.kL(s,s,B.E,s,s,new A.dO(s,A.acn(B.wv,new A.pZ("/gif/"+this.e.a67(this.d.length)+".gif")),s,s,s,s,B.aW),s,s,s,s)}}
+return A.kL(s,s,B.E,s,s,new A.dO(s,A.acn(B.wv,new A.pZ("assets/gif/"+this.e.a67(this.d.length)+".gif")),s,s,s,s,B.aW),s,s,s,s)}}
 A.a20.prototype={
 $1(a){a.k(0,"id")
 a.k(0,"url")
