@@ -67735,7 +67735,7 @@ this.aK()},
 N(a){var s,r=null,q=A.acl(B.ji,new A.qA("assets/images/brand.jpg")),p=A.adw(A.Pv(new A.pb($.afq(),new A.a7K(),r,t.gA),r,r),r,1/0),o=this.e
 o=o===""?new A.tu(r):new A.fs(B.wr,r,r,A.adw(new A.t4(A.asJ(r,r,new A.jL("https://nitinnaikwadi1.github.io/vedeobase/images/vedeo_app/random_animals_frames/"+o,1,r)),r),r,198),r)
 s=t.F
-return new A.v2(A.i2(r,A.asM(A.b([A.agF(A.mr(B.cA,A.b([p,o],s),B.cq),80),A.agF(A.agQ(new A.a7L(this),this.j4(),t.Te),20)],s),B.ex),B.x,r,r,new A.dL(r,q,r,r,r,r,B.aU),r,r,r,r),!1,r)}}
+return new A.v2(A.i2(r,A.asM(A.b([A.agF(A.mr(B.cA,A.b([p,o],s),B.cq),83),A.agF(A.agQ(new A.a7L(this),this.j4(),t.Te),17)],s),B.ex),B.x,r,r,new A.dL(r,q,r,r,r,r,B.aU),r,r,r,r),!1,r)}}
 A.a7N.prototype={
 $1(a){var s=new A.iN()
 a.j(0,"id")
