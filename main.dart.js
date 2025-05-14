@@ -68550,7 +68550,7 @@ return A.K(null,r)}})
 return A.L($async$vc,r)},
 a7(){this.vc()
 this.ai()},
-J(a){var s,r=null,q=A.afs(B.iI,new A.rs("assets/images/brand.jpg")),p=A.a4J(A.akb("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/cat_baloons.gif"),r,198),o=A.a4J(A.Sn(new A.pP($.aiv(),new A.aaR(),r,t.GZ),r,r),r,1/0),n=this.e
+J(a){var s,r=null,q=A.afs(B.iI,new A.rs("assets/images/brand.png")),p=A.a4J(A.akb("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/cat_baloons.gif"),r,198),o=A.a4J(A.Sn(new A.pP($.aiv(),new A.aaR(),r,t.GZ),r,r),r,1/0),n=this.e
 n=n===""?new A.fz(80,80,A.akA(B.h3,B.BT,!1,3),r):new A.fO(B.w0,r,r,A.a4J(A.akb("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/"+n),r,198),r)
 s=t.F
 return new A.wH(A.c_(r,A.j1(A.a([A.iz(A.cF(B.ad,A.a([new A.fO(B.w3,r,r,p,r),o,n],s),B.aa),83),A.iz(new A.re(A.ak3(new A.aaS(this),this.iU(),t.Te),0.7,B.r,B.AT,r,r),17)],s),B.aZ,B.ao),r,r,new A.eM(r,q,r,r,r,r,B.aW),r,r,r,r),!1,r)}}
