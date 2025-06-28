@@ -68518,7 +68518,7 @@ case 1:return A.L(q,r)}})
 return A.M($async$iU,r)},
 a7(){this.ai()},
 J(a){var s=null,r=A.afr(B.iH,new A.rr("assets/images/brand.png")),q=t.F
-return new A.wF(A.bZ(s,A.j0(A.a([A.iy(A.cF(B.ad,A.a([new A.fN(B.w3,s,s,A.a4J(A.ak7("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/cat_baloons.gif"),s,198),s),new A.fN(B.w0,s,s,A.a4J(A.ak7("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/chickens.gif"),s,598),s),A.a4J(A.Sm(new A.pP($.air(),new A.aaR(),s,t.GZ),s,s),s,1/0)],q),B.aa),83),A.iy(new A.rd(A.ak_(new A.aaS(this),this.iU(),t.Te),0.7,B.r,B.AT,s,s),17)],q),B.aZ,B.ao),s,s,new A.eM(s,r,s,s,s,s,B.aW),s,s,s,s),!1,s)}}
+return new A.wF(A.bZ(s,A.j0(A.a([A.iy(A.cF(B.ad,A.a([new A.fN(B.w3,s,s,A.a4J(A.ak7("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/cat_baloons.gif"),s,198),s),new A.fN(B.w0,s,s,A.a4J(A.ak7("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/chickens.gif"),s,572),s),A.a4J(A.Sm(new A.pP($.air(),new A.aaR(),s,t.GZ),s,s),s,1/0)],q),B.aa),83),A.iy(new A.rd(A.ak_(new A.aaS(this),this.iU(),t.Te),0.7,B.r,B.AT,s,s),17)],q),B.aZ,B.ao),s,s,new A.eM(s,r,s,s,s,s,B.aW),s,s,s,s),!1,s)}}
 A.aaT.prototype={
 $1(a){var s=new A.jf()
 a.i(0,"id")
