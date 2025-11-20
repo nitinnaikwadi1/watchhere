@@ -68248,7 +68248,7 @@ r.r=s},
 J(a){var s,r=this,q=null,p=A.afo(B.iH,new A.rq("assets/images/brand.png")),o=r.r
 o===$&&A.b()
 s=t.F
-return new A.wC(A.bY(q,A.iZ(A.a([A.iw(A.cF(B.ae,A.a([new A.fN(B.w3,q,q,A.a4C(A.ajX(B.f8,o,B.fc,new A.iK("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/cat_baloons.gif"),new A.aaL(r),!0),q,198),q),new A.fN(B.w0,q,q,A.a4C(A.ajX(B.f8,o,B.fc,new A.iK("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/chickens.gif"),new A.aaM(r),!0),q,572),q),A.a4C(A.Sk(new A.pL($.ain(),new A.aaN(),q,t.GZ),q,q),q,1/0)],s),B.aa),83),A.iw(new A.rc(A.ajW(new A.aaO(r),r.iV(),t.Te),0.7,B.r,B.AU,q,q),17)],s),B.aZ,B.ao),q,q,new A.eL(q,p,q,q,q,q,B.aW),q,q,q,q),!1,q)}}
+return new A.wC(A.bY(q,A.iZ(A.a([A.iw(A.cF(B.ae,A.a([new A.fN(B.w3,q,q,A.a4C(A.ajX(B.f8,o,B.fc,new A.iK("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/aeroplane.gif"),new A.aaL(r),!0),q,198),q),new A.fN(B.w0,q,q,A.a4C(A.ajX(B.f8,o,B.fc,new A.iK("https://nitinnaikwadi1.github.io/vedeobase/images/random_animals_frames/aligator_bird.gif"),new A.aaM(r),!0),q,572),q),A.a4C(A.Sk(new A.pL($.ain(),new A.aaN(),q,t.GZ),q,q),q,1/0)],s),B.aa),83),A.iw(new A.rc(A.ajW(new A.aaO(r),r.iV(),t.Te),0.7,B.r,B.AU,q,q),17)],s),B.aZ,B.ao),q,q,new A.eL(q,p,q,q,q,q,B.aW),q,q,q,q),!1,q)}}
 A.aaP.prototype={
 $1(a){var s=new A.jd()
 a.i(0,"id")
