@@ -73122,7 +73122,7 @@ $.ah.cl$.push(r)
 r.l3()
 s=A.axz()
 r.e=s
-s.t9(A.axB(A.de("assets/audio/surprise_tune_birthday.mp3"),null,null),null,!0)
+s.t9(A.axB(A.de("asset:///assets/audio/surprise_tune_birthday.mp3"),null,null),null,!0)
 r.e.cb()},
 l(){var s=this.e
 s===$&&A.b()
