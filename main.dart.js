@@ -81134,7 +81134,7 @@ A.R6.prototype={
 kx(){var s=0,r=A.o(t.Te),q,p,o,n
 var $async$kx=A.p(function(a,b){if(a===1)return A.l(b,r)
 for(;;)switch(s){case 0:s=3
-return A.j(A.aAC(A.d2($.WP()?"https://venerable-genie-708e01.netlify.app/data/vedeo_app/vedeo_app_day_videos_list.json":"https://venerable-genie-708e01.netlify.app/data/vedeo_app/vedeo_app_night_videos_list.json",0,null)),$async$kx)
+return A.j(A.aAC(A.d2($.WP()?"vedeobase.netlify.app/data/vedeo_app/vedeo_app_day_videos_list.json":"vedeobase.netlify.app/data/vedeo_app/vedeo_app_night_videos_list.json",0,null)),$async$kx)
 case 3:p=b
 o=t.j.a(B.bc.dG(A.aAv(A.azp(p.e)).dG(p.w)))
 n=J.cl(o)
@@ -81171,12 +81171,12 @@ r.toString
 s.a9G(A.at_(r,B.jR,!1,null),new A.alE())}},
 I(a){var s,r,q,p,o,n=this,m=null,l=A.a_B(B.h5,new A.hS(n.e,m,m)),k=n.r
 k===$&&A.a()
-s=A.oZ(A.a2r(B.cU,k,B.e1,new A.i6("https://venerable-genie-708e01.netlify.app/images/random_animals_frames/mother_daughter.gif"),new A.alw(n),!0),m,112)
-r=A.oZ(A.a2r(B.cU,k,B.zh,new A.i6("https://venerable-genie-708e01.netlify.app/images/random_animals_frames/footer_scene.gif"),new A.alx(n),!0),m,500)
+s=A.oZ(A.a2r(B.cU,k,B.e1,new A.i6("vedeobase.netlify.app/images/random_animals_frames/mother_daughter.gif"),new A.alw(n),!0),m,112)
+r=A.oZ(A.a2r(B.cU,k,B.zh,new A.i6("vedeobase.netlify.app/images/random_animals_frames/footer_scene.gif"),new A.alx(n),!0),m,500)
 q=A.Jg(!1,m,!0,A.oZ(A.a2r(B.cU,k,B.e1,new A.hS("assets/images/surprise/game_button.gif",m,m),new A.aly(n),!0),m,72),m,!0,m,m,m,m,m,m,new A.alz(a),m,m,m,m)
 p=$.aup()
 o=t.F
-return new A.Ac(A.cb(m,A.ko(A.b([A.jV(A.de(B.ar,A.b([new A.eE(B.fZ,m,m,s,m),new A.eE(B.yc,m,m,r,m),new A.eE(B.yd,m,m,q,m),new A.Ny(new A.eE(B.fZ,m,m,A.Jg(!1,m,!0,A.oZ(A.a2r(B.cU,k,B.e1,new A.hS("https://venerable-genie-708e01.netlify.app/images/random_animals_frames/surprise_button.gif",m,m),new A.alA(n),!0),m,128),m,!0,m,m,m,m,m,m,new A.alB(a),m,m,m,m),m),p===0,m),A.oZ(A.Za(new A.tM($.aus(),new A.alC(),m,t.gA),m,m),m,1/0)],o),B.am),83),A.jV(new A.vs(A.avW(new A.alD(n),n.kx(),t.Te),0.7,B.t,B.E5,m,m),17)],o),B.bf),m,m,new A.fl(m,l,m,m,m,m,B.b_),m,m,m,m),!1,m)}}
+return new A.Ac(A.cb(m,A.ko(A.b([A.jV(A.de(B.ar,A.b([new A.eE(B.fZ,m,m,s,m),new A.eE(B.yc,m,m,r,m),new A.eE(B.yd,m,m,q,m),new A.Ny(new A.eE(B.fZ,m,m,A.Jg(!1,m,!0,A.oZ(A.a2r(B.cU,k,B.e1,new A.hS("vedeobase.netlify.app/images/random_animals_frames/surprise_button.gif",m,m),new A.alA(n),!0),m,128),m,!0,m,m,m,m,m,m,new A.alB(a),m,m,m,m),m),p===0,m),A.oZ(A.Za(new A.tM($.aus(),new A.alC(),m,t.gA),m,m),m,1/0)],o),B.am),83),A.jV(new A.vs(A.avW(new A.alD(n),n.kx(),t.Te),0.7,B.t,B.E5,m,m),17)],o),B.bf),m,m,new A.fl(m,l,m,m,m,m,B.b_),m,m,m,m),!1,m)}}
 A.alF.prototype={
 $1(a){var s=new A.kH()
 a.h(0,"id")
@@ -81339,7 +81339,7 @@ kx(){var s=0,r=A.o(t.H),q=this,p,o,n,m
 var $async$kx=A.p(function(a,b){if(a===1)return A.l(b,r)
 for(;;)switch(s){case 0:p=A.KT(new A.d8(Date.now(),0,!1))>=5&&A.KT(new A.d8(Date.now(),0,!1))<20
 s=2
-return A.j(A.aAC(A.d2(p?"https://venerable-genie-708e01.netlify.app/data/vedeo_app/vedeo_app_landing_day_gif_list.json":"https://venerable-genie-708e01.netlify.app/data/vedeo_app/vedeo_app_landing_night_gif_list.json",0,null)),$async$kx)
+return A.j(A.aAC(A.d2(p?"vedeobase.netlify.app/data/vedeo_app/vedeo_app_landing_day_gif_list.json":"vedeobase.netlify.app/data/vedeo_app/vedeo_app_landing_night_gif_list.json",0,null)),$async$kx)
 case 2:o=b
 n=J.q1(t.j.a(B.bc.dG(A.aAv(A.azp(o.e)).dG(o.w))),new A.aih(),t.LM)
 m=A.a_(n,n.$ti.i("af.E"))
@@ -81361,9 +81361,9 @@ A.aii.prototype={
 $0(){var s=this.c
 if(this.b){s=s[0].b
 s===$&&A.a()
-s="https://venerable-genie-708e01.netlify.app/images/vedeo_app/landing_day/"+s}else{s=s[0].b
+s="vedeobase.netlify.app/images/vedeo_app/landing_day/"+s}else{s=s[0].b
 s===$&&A.a()
-s="https://venerable-genie-708e01.netlify.app/images/vedeo_app/landing_night/"+s}this.a.d=s},
+s="vedeobase.netlify.app/images/vedeo_app/landing_night/"+s}this.a.d=s},
 $S:0}
 A.JM.prototype={
 I(a){var s=null
