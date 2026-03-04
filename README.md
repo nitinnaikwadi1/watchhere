@@ -4,4 +4,6 @@ this is deployed from vedeoapp - flutter
 
 > watch here  
 
-[watchhere](https://nitinnaikwadi1.github.io/watchhere)
+[watchhere - github pages deployed](https://nitinnaikwadi1.github.io/watchhere)
+
+[watchhere - netlify deployed](https://unnatiwatchhere.netlify.app)
